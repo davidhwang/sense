@@ -1,6 +1,6 @@
-screenshot  = screenshot.png
+screenshot  = screenshot.jpg
 name        = Sense
-description = An experimental, minimalist theme for CSM D7 development.
+description = Common Sense Media D7 Responsive Theme. A Zen 5.x subtheme.
 core        = 7.x
 base theme  = zen
 
